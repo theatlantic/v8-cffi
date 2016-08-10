@@ -1,6 +1,7 @@
 #include <string.h>
 #include <string>
 #include <new>  // std::bad_alloc
+#include <stdlib.h>
 
 #include "v8cffi_platform.h"
 #include "v8cffi_vm.h"

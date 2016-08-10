@@ -1,6 +1,7 @@
 #include <string.h>
 #include <string>
 #include <memory>
+#include <stdlib.h>
 
 #include "v8cffi_exceptions.h"
 #include "v8cffi_vm.h"
